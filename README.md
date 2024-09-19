@@ -1,5 +1,7 @@
 # Coffee Talk for PS VITA
 
+**THE CURRENT VERSION OF PORT IS BROKEN!**
+
 This repo contains patches that you can use in order to get fully working files for my port.
 
 **YOU NEED TO BUY THE GAME ON STEAM TO MAKE IT WORK!**
